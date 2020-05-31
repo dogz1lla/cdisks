@@ -1,0 +1,2 @@
+* cdisks -- repo for physics simulations of disks in C.
+don't forget to compile the source with -lX11 and -lm flags!
